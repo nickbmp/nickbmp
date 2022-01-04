@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickbmp
 - 👀 I’m interested in html5, python, java
-- 🌱 I’m currently learning portugolkkkk, python
+- 🌱 I’m currently learning portugol, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me civicclover44@gmail.com
 
